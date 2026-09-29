@@ -67,4 +67,8 @@ B.Tech CSE – Data Analytics Student
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
