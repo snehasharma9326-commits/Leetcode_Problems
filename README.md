@@ -71,4 +71,8 @@ B.Tech CSE – Data Analytics Student
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0009-palindrome-number) |
+## Array
+|  |
+| ------- |
+| [0485-max-consecutive-ones](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
 <!---LeetCode Topics End-->
