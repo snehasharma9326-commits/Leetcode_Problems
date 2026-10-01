@@ -55,6 +55,7 @@ B.Tech CSE – Data Analytics Student
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
+| [0876-middle-of-the-linked-list](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -75,4 +76,8 @@ B.Tech CSE – Data Analytics Student
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
