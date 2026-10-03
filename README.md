@@ -72,6 +72,7 @@ B.Tech CSE – Data Analytics Student
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0009-palindrome-number) |
 ## Array
 |  |
