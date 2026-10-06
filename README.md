@@ -62,6 +62,7 @@ B.Tech CSE – Data Analytics Student
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 ## Dynamic Programming
 |  |
@@ -76,6 +77,7 @@ B.Tech CSE – Data Analytics Student
 | ------- |
 | [0007-reverse-integer](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0012-integer-to-roman) |
 ## Array
 |  |
 | ------- |
@@ -95,4 +97,8 @@ B.Tech CSE – Data Analytics Student
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
