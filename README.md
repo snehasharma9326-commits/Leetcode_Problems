@@ -83,6 +83,7 @@ B.Tech CSE – Data Analytics Student
 | ------- |
 | [0014-longest-common-prefix](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0073-set-matrix-zeroes](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
 ## Linked List
@@ -101,4 +102,9 @@ B.Tech CSE – Data Analytics Student
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0012-integer-to-roman) |
+| [0073-set-matrix-zeroes](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
