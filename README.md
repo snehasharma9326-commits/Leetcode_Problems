@@ -62,6 +62,7 @@ B.Tech CSE – Data Analytics Student
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 ## Dynamic Programming
