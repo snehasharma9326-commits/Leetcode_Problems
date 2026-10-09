@@ -55,6 +55,7 @@ B.Tech CSE – Data Analytics Student
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0876-middle-of-the-linked-list](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0876-middle-of-the-linked-list) |
@@ -83,6 +84,7 @@ B.Tech CSE – Data Analytics Student
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
@@ -94,6 +96,7 @@ B.Tech CSE – Data Analytics Student
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 ## Trie
 |  |
