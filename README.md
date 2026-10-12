@@ -71,6 +71,7 @@ B.Tech CSE – Data Analytics Student
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Manacher
 |  |
 | ------- |
@@ -90,6 +91,7 @@ B.Tech CSE – Data Analytics Student
 | [0026-remove-duplicates-from-sorted-array](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0485-max-consecutive-ones](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
 | [1572-matrix-diagonal-sum](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/1572-matrix-diagonal-sum) |
 ## Linked List
