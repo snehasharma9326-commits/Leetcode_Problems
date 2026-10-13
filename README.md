@@ -58,6 +58,7 @@ B.Tech CSE – Data Analytics Student
 | [0015-3sum](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0876-middle-of-the-linked-list](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0876-middle-of-the-linked-list) |
 ## String
@@ -90,6 +91,7 @@ B.Tech CSE – Data Analytics Student
 | [0018-4sum](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0485-max-consecutive-ones](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
@@ -103,6 +105,7 @@ B.Tech CSE – Data Analytics Student
 | ------- |
 | [0015-3sum](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 ## Trie
 |  |
@@ -118,4 +121,12 @@ B.Tech CSE – Data Analytics Student
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [1572-matrix-diagonal-sum](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/1572-matrix-diagonal-sum) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
