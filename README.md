@@ -72,6 +72,7 @@ B.Tech CSE – Data Analytics Student
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Manacher
 |  |
@@ -90,6 +91,7 @@ B.Tech CSE – Data Analytics Student
 | [0015-3sum](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
@@ -129,4 +131,8 @@ B.Tech CSE – Data Analytics Student
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
