@@ -74,6 +74,7 @@ B.Tech CSE – Data Analytics Student
 | [0005-longest-palindromic-substring](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
 ## Manacher
 |  |
 | ------- |
@@ -96,6 +97,7 @@ B.Tech CSE – Data Analytics Student
 | [0075-sort-colors](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0485-max-consecutive-ones](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
 | [1572-matrix-diagonal-sum](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/1572-matrix-diagonal-sum) |
 ## Linked List
