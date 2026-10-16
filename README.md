@@ -103,6 +103,7 @@ B.Tech CSE – Data Analytics Student
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -137,4 +138,8 @@ B.Tech CSE – Data Analytics Student
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0053-maximum-subarray) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
