@@ -57,6 +57,7 @@ B.Tech CSE – Data Analytics Student
 | [0005-longest-palindromic-substring](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -105,6 +106,7 @@ B.Tech CSE – Data Analytics Student
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
