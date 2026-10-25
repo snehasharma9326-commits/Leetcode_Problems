@@ -75,6 +75,7 @@ B.Tech CSE – Data Analytics Student
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -96,6 +97,7 @@ B.Tech CSE – Data Analytics Student
 | [0015-3sum](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0045-jump-game-ii](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0075-sort-colors) |
@@ -157,4 +159,8 @@ B.Tech CSE – Data Analytics Student
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
