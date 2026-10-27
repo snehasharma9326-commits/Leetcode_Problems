@@ -109,6 +109,7 @@ B.Tech CSE – Data Analytics Student
 | [0152-maximum-product-subarray](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0485-max-consecutive-ones](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
 | [1572-matrix-diagonal-sum](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/1572-matrix-diagonal-sum) |
+| [3026-maximum-good-subarray-sum](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/3026-maximum-good-subarray-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -131,6 +132,7 @@ B.Tech CSE – Data Analytics Student
 | ------- |
 | [0012-integer-to-roman](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
+| [3026-maximum-good-subarray-sum](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/3026-maximum-good-subarray-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -168,4 +170,8 @@ B.Tech CSE – Data Analytics Student
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0039-combination-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [3026-maximum-good-subarray-sum](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/3026-maximum-good-subarray-sum) |
 <!---LeetCode Topics End-->
