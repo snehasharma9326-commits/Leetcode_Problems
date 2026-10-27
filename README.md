@@ -107,6 +107,7 @@ B.Tech CSE – Data Analytics Student
 | [0118-pascals-triangle](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
+| [0217-contains-duplicate](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
 | [1572-matrix-diagonal-sum](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/1572-matrix-diagonal-sum) |
 | [3026-maximum-good-subarray-sum](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/3026-maximum-good-subarray-sum) |
@@ -123,6 +124,7 @@ B.Tech CSE – Data Analytics Student
 | [0018-4sum](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 ## Trie
 |  |
 | ------- |
@@ -132,6 +134,7 @@ B.Tech CSE – Data Analytics Student
 | ------- |
 | [0012-integer-to-roman](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
+| [0217-contains-duplicate](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [3026-maximum-good-subarray-sum](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/3026-maximum-good-subarray-sum) |
 ## Matrix
 |  |
