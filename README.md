@@ -103,6 +103,7 @@ B.Tech CSE – Data Analytics Student
 | [0053-maximum-subarray](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
@@ -143,6 +144,7 @@ B.Tech CSE – Data Analytics Student
 | ------- |
 | [0064-minimum-path-sum](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/1572-matrix-diagonal-sum) |
 ## Quicksort
 |  |
@@ -180,4 +182,8 @@ B.Tech CSE – Data Analytics Student
 |  |
 | ------- |
 | [3026-maximum-good-subarray-sum](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/3026-maximum-good-subarray-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
