@@ -116,6 +116,7 @@ B.Tech CSE – Data Analytics Student
 | [0485-max-consecutive-ones](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
 | [1572-matrix-diagonal-sum](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/1572-matrix-diagonal-sum) |
 | [3026-maximum-good-subarray-sum](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/3026-maximum-good-subarray-sum) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/snehasharma9326-commits/Leetcode_Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Linked List
 |  |
 | ------- |
